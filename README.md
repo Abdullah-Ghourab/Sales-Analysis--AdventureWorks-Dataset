@@ -22,4 +22,4 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
   
 ## Screenshots
 ### Dashboard Overview
-![Dashboard Overview](/dashboard_overview.png)
+![Dashboard Overview](/DashboardOverview.png)
